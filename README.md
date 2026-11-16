@@ -1,7 +1,7 @@
 # Homelab Build Journal
 
-**Author:** Peter Antai, Robotics & HRI Researcher
-**Stack:** Ubuntu Server 22.04 · Docker · ROS2 Humble · Gitea · Mosquitto · Portainer
+**Author:** Peter Antai, Robotics & HRI Researcher  
+**Stack:** Ubuntu Server 22.04 · Docker · ROS2 Humble · Gitea · Mosquitto · Portainer  
 **Purpose:** Personal homelab for robotics research, HRI project development, and portfolio infrastructure
 
 > IP addresses, usernames and disk identifiers in this public copy are replaced with placeholders such as `<SERVER_IP>`.
@@ -575,5 +575,5 @@ One container needed extra work. Its saved login profile was copied back from th
 
 ---
 
-*This journal is a living document, updated as the homelab evolves.*
+*This journal is a living document, updated as the homelab evolves.*  
 *Part of Peter Antai's robotics research portfolio.*
