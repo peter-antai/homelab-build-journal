@@ -10,14 +10,14 @@
 
 ## Overview
 
-This journal documents a two-machine homelab built from scratch: a dedicated local server and a development laptop, configured as one robotics research and development environment. Every hardware and software decision is recorded here as an engineering artifact in its own right.
+This journal documents the two-machine homelab I built from scratch: a dedicated local server and a development laptop, configured as one robotics research and development environment. I record every hardware and software decision here as an engineering artifact in its own right.
 
 The journal covers two generations of the server:
 
 1. **Server v1 (June 2026):** a second-hand HP ProDesk 400 G3 SFF, upgraded and configured as a headless Docker host.
 2. **Server v2 (November 2026):** a self-built AM4 tower that replaced the ProDesk after a hardware failure. The existing drives, operating system and services were moved across without a reinstall.
 
-The infrastructure supports active portfolio projects, including a multimodal HRI drone platform (Python, OpenCV, ROS2, MediaPipe, Whisper ASR) and a clinical speech and vital signs anomaly dashboard.
+The infrastructure supports my active portfolio projects, including a multimodal HRI drone platform (Python, OpenCV, ROS2, MediaPipe, Whisper ASR) and a clinical speech and vital signs anomaly dashboard.
 
 ### Timeline
 
@@ -576,4 +576,4 @@ One container needed extra work. Its saved login profile was copied back from th
 ---
 
 *This journal is a living document, updated as the homelab evolves.*  
-*Part of Peter Antai's robotics research portfolio.*
+*Part of my robotics research portfolio.*
